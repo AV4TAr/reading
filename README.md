@@ -32,6 +32,8 @@ Articles, blogposts, videos, etc I collected that will help you to became a bett
 * No mas pálidas - Enrique Baliño 
 * The Five Dysfunctions of a Team - Patrick Lencioni 
 * The 5 Levels of Leadership - John Maxwell 
+* Leading Snowflakes - Oren Ellenbogen
+* You're in charge, Now what? - Thoms J. Neff & James M. Citrin
 
 ### ted talks
 
