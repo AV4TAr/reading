@@ -5,10 +5,10 @@ Articles, blogposts, videos, etc I collected that will help you to became a bett
 ### articles / links
 
 * [To be a great leader, rethink your default behaviors – IDEO Stories](https://www.instapaper.com/read/566114749)
-* [Management skills for new leaders | Fractional by Lindsay Holmwood](https://www.instapaper.com/read/675876077)
+* [Management skills for new leaders](https://www.instapaper.com/read/675876077)
 * [Managing Yourself: Bringing Out the Best in Your People](https://www.instapaper.com/read/827573749)
 * [How My Father Made Me Realize That Moving Up the Ladder Was Meaningless](https://www.instapaper.com/read/821445162)
-* [Do You Know the Five C’s of Co-Creation? | Soulful Relating](https://www.instapaper.com/read/815201592)
+* [Do You Know the Five C’s of Co-Creation?](https://www.instapaper.com/read/815201592)
 * [Management in ten tweets – Medium](https://www.instapaper.com/read/796238524)
 * [What Great Listeners Actually Do](https://www.instapaper.com/read/785412391)
 * [re:Work - Guide: Give feedback to managers](https://www.instapaper.com/read/780433277)
