@@ -33,6 +33,7 @@ Articles, blogposts, videos, etc I collected that will help you to became a bett
 * The Five Dysfunctions of a Team - Patrick Lencioni 
 * The 5 Levels of Leadership - John Maxwell 
 * You're in charge, Now what? - Thoms J. Neff & James M. Citrin
+* The manager's path. A Guide for Tech Leaders Navigating Growth and Change - Camille Fournier
 
 ## ted talks
 
