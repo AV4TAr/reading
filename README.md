@@ -24,6 +24,7 @@ Articles, blogposts, videos, etc I collected that will help you to became a bett
 * [The Science of Motivation: Your Brain on Dopamine](http://blog.idonethis.com/the-science-of-motivation-your-brain-on-dopamine/)
 * [A Manager's Manifesto](https://medium.com/the-year-of-the-looking-glass/a-managers-manifesto-be5f6b118084#.6cm1zz6a4)
 * [Good tips for 1:1's with your employees?](https://www.quora.com/What-are-some-good-tips-for-1-1s-with-your-employees)
+* [Kate Matsudaira articles about leadership](http://katemats.com/leadership/)
 
 ## books
 
