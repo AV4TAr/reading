@@ -35,6 +35,7 @@ Articles, blogposts, videos, etc I collected that will help you to became a bett
 * The 5 Levels of Leadership - John Maxwell 
 * You're in charge, Now what? - Thoms J. Neff & James M. Citrin
 * The manager's path. A Guide for Tech Leaders Navigating Growth and Change - Camille Fournier
+* Delivering Happiness: A Path to Profits, Passion, and Purpose - Tony Hsieh 
 
 ## ted talks
 
