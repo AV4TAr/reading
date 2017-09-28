@@ -59,3 +59,4 @@ Articles, blogposts, videos, etc I collected that will help you to became a bett
 
 * [Leading Snowflakes - The Engineer Manager book](http://leadingsnowflakes.com/)
 * The manager's path. A Guide for Tech Leaders Navigating Growth and Change - Camille Fournier
+* Talking with Tech Leads - Patrick Kua
