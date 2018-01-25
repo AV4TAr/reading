@@ -18,7 +18,6 @@ Articles, blogposts, videos, etc I collected that will help you to became a bett
 * [Unintuitive Things I’ve Learned about Management (Part 1) — The Year of the Looking Glass](https://www.instapaper.com/read/719595988)
 * [Unintuitive Things I’ve Learned about Management (Part 2) — The Year of the Looking Glass](https://www.instapaper.com/read/827595064)
 * [What Google Learned From Its Quest to Build the Perfect Team - NYTimes.com](https://www.instapaper.com/read/714945504)
-* [John Maxwell The 5 Levels of Leadership](https://www.youtube.com/watch?v=aPwXeg8ThWI)
 * [The Role of Management at Possible](http://www.slideshare.net/possiblehealth/the-role-of-management-at-possible/the-role-of-management-at-possible)
 * [Tips for Coaching Someone Remotely](https://hbr.org/2015/03/tips-for-coaching-someone-remotely)
 * [The Science of Motivation: Your Brain on Dopamine](http://blog.idonethis.com/the-science-of-motivation-your-brain-on-dopamine/)
@@ -38,11 +37,13 @@ Articles, blogposts, videos, etc I collected that will help you to became a bett
 * Radical Candor - Kim Scott
 * Mindset: The New Psychology of Success - Carol S. Dweck
 
-## ted talks
+## Videos
 
  * [Dare to disagree - argaret Heffernan](https://www.ted.com/talks/margaret_heffernan_dare_to_disagree)
  * [Start with the why - Simon Sinek](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action)
  * [On being wrong - Kathryn Schulz](https://www.ted.com/talks/kathryn_schulz_on_being_wrong)
+ * [The elements of scaling- Camille Fournier](https://www.youtube.com/watch?v=E9gN1pm0kcQ)
+ * [John Maxwell The 5 Levels of Leadership](https://www.youtube.com/watch?v=aPwXeg8ThWI)
 
 # Engineering Leadership
 
