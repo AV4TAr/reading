@@ -37,6 +37,9 @@ Articles, blogposts, videos, etc I collected that will help you to became a bett
 * Delivering Happiness: A Path to Profits, Passion, and Purpose - Tony Hsieh 
 * Radical Candor - Kim Scott
 * Mindset: The New Psychology of Success - Carol S. Dweck
+* Multipliers: How the Best Leaders Make Everyone Smarter - Liz Wiseman
+* Switch: How to Change Things When Change Is Hard - Chip Heath, Dan Heath
+* Thinking, Fast and Slow - Daniel Kahneman
 
 ## Videos
 
