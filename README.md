@@ -61,6 +61,7 @@ Articles, blogposts, videos, etc I collected that will help you to became a bett
 * [ADHD and how to get non-feature engineering work done](https://www.instapaper.com/read/818083209)
 * [Engineering Values – Medium Engineering](https://www.instapaper.com/read/813445834)
 * [This Is What Impactful Engineering Leadership Looks Like](https://www.instapaper.com/read/675594435)
+* [Marting Fowler](https://martinfowler.com)
 
 ## books
 
