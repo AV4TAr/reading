@@ -49,6 +49,7 @@ Articles, blogposts, videos, etc I collected that will help you to became a bett
  * [The elements of scaling- Camille Fournier](https://www.youtube.com/watch?v=E9gN1pm0kcQ)
  * [John Maxwell The 5 Levels of Leadership](https://www.youtube.com/watch?v=aPwXeg8ThWI)
  * [Rebooting Culture – Camille Fournier](https://www.youtube.com/watch?v=mOKzDkl3U2Y)
+ * [Leadership Guide for the Reluctant Leader - David Neal](https://www.youtube.com/watch?v=0h5X5UKWao8)
 
 # Engineering Leadership
 
