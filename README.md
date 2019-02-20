@@ -69,7 +69,7 @@ Articles, books, blogposts, videos, etc I collected that will help you to became
 * [Leading Snowflakes - The Engineer Manager book](http://leadingsnowflakes.com/)
 * The manager's path. A Guide for Tech Leaders Navigating Growth and Change - Camille Fournier
 * Talking with Tech Leads - Patrick Kua
-
+* Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations - Nicole Forsgren
 
 ----
 
