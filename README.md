@@ -28,6 +28,8 @@ Articles, books, blogposts, videos, etc I collected that will help you to became
 
 ## books
 
+* Marissa Mayer and the Fight to Save Yahoo!
+* Losing the Signal: The Untold Story Behind the Extraordinary Rise and Spectacular Fall of BlackBerry
 * Start with the why - Simon Sinek - the TED Talk 
 * Leaders eat last - Simon Sinek
 * No mas pálidas - Enrique Baliño 
