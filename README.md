@@ -27,7 +27,8 @@ Articles, books, blogposts, videos, etc I collected that will help you to became
 * [Kate Matsudaira articles about leadership](http://katemats.com/leadership/)
 
 ## books
-
+* Influence: The Psychology of Persuasion, Revised Edition - Dr. Robert Cialdini
+* Being Geek: The Software Developer's Career Handbook - Michael Lopp
 * Marissa Mayer and the Fight to Save Yahoo!
 * Losing the Signal: The Untold Story Behind the Extraordinary Rise and Spectacular Fall of BlackBerry
 * Start with the why - Simon Sinek - the TED Talk 
@@ -43,6 +44,13 @@ Articles, books, blogposts, videos, etc I collected that will help you to became
 * Switch: How to Change Things When Change Is Hard - Chip Heath, Dan Heath
 * Thinking, Fast and Slow - Daniel Kahneman
 
+## Podcasts
+
+ * [Simple Leadership](http://simpleleadership.io/category/podcast/)
+ * [Software Engineering Daily](https://softwareengineeringdaily.com/category/all-episodes/exclusive-content/Podcast/)
+ 
+ 
+ 
 ## Videos
 
  * [Dare to disagree - argaret Heffernan](https://www.ted.com/talks/margaret_heffernan_dare_to_disagree)
