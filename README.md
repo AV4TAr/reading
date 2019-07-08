@@ -27,6 +27,7 @@ Articles, books, blogposts, videos, etc I collected that will help you to became
 * [Kate Matsudaira articles about leadership](http://katemats.com/leadership/)
 
 ## books
+* Resilient Management - Lara Hogan
 * Influence: The Psychology of Persuasion, Revised Edition - Dr. Robert Cialdini
 * Being Geek: The Software Developer's Career Handbook - Michael Lopp
 * Marissa Mayer and the Fight to Save Yahoo!
