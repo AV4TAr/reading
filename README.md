@@ -27,6 +27,7 @@ Articles, books, blogposts, videos, etc I collected that will help you to became
 * [Kate Matsudaira articles about leadership](http://katemats.com/leadership/)
 
 ## books
+* What you do is who you are: How to create your business culture - Ben Horowitz
 * Resilient Management - Lara Hogan
 * Influence: The Psychology of Persuasion, Revised Edition - Dr. Robert Cialdini
 * Being Geek: The Software Developer's Career Handbook - Michael Lopp
