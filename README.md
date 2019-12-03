@@ -1,8 +1,37 @@
 Articles, books, blogposts, videos, etc I collected that will help you to became a better Leader / Manager / Coach
 
-# Leadership 
+# books
+* Managing Humans: Biting and Humorous Tales of a Software Engineering Manager - Michael Lopp
+* What you do is who you are: How to create your business culture - Ben Horowitz
+* Resilient Management - Lara Hogan
+* Influence: The Psychology of Persuasion, Revised Edition - Dr. Robert Cialdini
+* Being Geek: The Software Developer's Career Handbook - Michael Lopp
+* Marissa Mayer and the Fight to Save Yahoo!
+* Losing the Signal: The Untold Story Behind the Extraordinary Rise and Spectacular Fall of BlackBerry
+* Start with the why - Simon Sinek - the TED Talk 
+* Leaders eat last - Simon Sinek
+* No mas pálidas - Enrique Baliño 
+* The Five Dysfunctions of a Team - Patrick Lencioni 
+* The 5 Levels of Leadership - John Maxwell 
+* You're in charge, Now what? - Thoms J. Neff & James M. Citrin
+* Delivering Happiness: A Path to Profits, Passion, and Purpose - Tony Hsieh 
+* Radical Candor - Kim Scott
+* Mindset: The New Psychology of Success - Carol S. Dweck
+* Multipliers: How the Best Leaders Make Everyone Smarter - Liz Wiseman
+* Switch: How to Change Things When Change Is Hard - Chip Heath, Dan Heath
+* Thinking, Fast and Slow - Daniel Kahneman
+* [Leading Snowflakes - The Engineer Manager book](http://leadingsnowflakes.com/)
+* The manager's path. A Guide for Tech Leaders Navigating Growth and Change - Camille Fournier
+* Talking with Tech Leads - Patrick Kua
+* Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations - Nicole Forsgren
 
-## articles / links
+
+# Podcasts
+
+* [Simple Leadership](http://simpleleadership.io/category/podcast/)
+* [Software Engineering Daily](https://softwareengineeringdaily.com/category/all-episodes/exclusive-content/Podcast/)
+ 
+# articles / links
 
 * [To be a great leader, rethink your default behaviors – IDEO Stories](https://www.instapaper.com/read/566114749)
 * [Management skills for new leaders](https://www.instapaper.com/read/675876077)
@@ -25,48 +54,6 @@ Articles, books, blogposts, videos, etc I collected that will help you to became
 * [Good tips for 1:1's with your employees?](https://www.quora.com/What-are-some-good-tips-for-1-1s-with-your-employees)
 * [The Time Value of Shipping](https://blackboxofpm.com/the-time-value-of-shipping-6deaf8d7d565)
 * [Kate Matsudaira articles about leadership](http://katemats.com/leadership/)
-
-## books
-* What you do is who you are: How to create your business culture - Ben Horowitz
-* Resilient Management - Lara Hogan
-* Influence: The Psychology of Persuasion, Revised Edition - Dr. Robert Cialdini
-* Being Geek: The Software Developer's Career Handbook - Michael Lopp
-* Marissa Mayer and the Fight to Save Yahoo!
-* Losing the Signal: The Untold Story Behind the Extraordinary Rise and Spectacular Fall of BlackBerry
-* Start with the why - Simon Sinek - the TED Talk 
-* Leaders eat last - Simon Sinek
-* No mas pálidas - Enrique Baliño 
-* The Five Dysfunctions of a Team - Patrick Lencioni 
-* The 5 Levels of Leadership - John Maxwell 
-* You're in charge, Now what? - Thoms J. Neff & James M. Citrin
-* Delivering Happiness: A Path to Profits, Passion, and Purpose - Tony Hsieh 
-* Radical Candor - Kim Scott
-* Mindset: The New Psychology of Success - Carol S. Dweck
-* Multipliers: How the Best Leaders Make Everyone Smarter - Liz Wiseman
-* Switch: How to Change Things When Change Is Hard - Chip Heath, Dan Heath
-* Thinking, Fast and Slow - Daniel Kahneman
-
-## Podcasts
-
- * [Simple Leadership](http://simpleleadership.io/category/podcast/)
- * [Software Engineering Daily](https://softwareengineeringdaily.com/category/all-episodes/exclusive-content/Podcast/)
- 
- 
- 
-## Videos
-
- * [Dare to disagree - argaret Heffernan](https://www.ted.com/talks/margaret_heffernan_dare_to_disagree)
- * [Start with the why - Simon Sinek](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action)
- * [On being wrong - Kathryn Schulz](https://www.ted.com/talks/kathryn_schulz_on_being_wrong)
- * [The elements of scaling- Camille Fournier](https://www.youtube.com/watch?v=E9gN1pm0kcQ)
- * [John Maxwell The 5 Levels of Leadership](https://www.youtube.com/watch?v=aPwXeg8ThWI)
- * [Rebooting Culture – Camille Fournier](https://www.youtube.com/watch?v=mOKzDkl3U2Y)
- * [Leadership Guide for the Reluctant Leader - David Neal](https://www.youtube.com/watch?v=0h5X5UKWao8)
-
-# Engineering Leadership
-
-## articles / links
-
 * [When engineers become managers: How to be a great technical leader](https://www.instapaper.com/read/767861136)
 * [Screen Engineers Better with a Debugging Roleplay – Pete Karl II](https://www.instapaper.com/read/815951592)
 * [Prolific Engineers Take Small Bites — Patterns in Developer Impact](https://www.instapaper.com/read/826226303)
@@ -75,13 +62,16 @@ Articles, books, blogposts, videos, etc I collected that will help you to became
 * [Engineering Values – Medium Engineering](https://www.instapaper.com/read/813445834)
 * [This Is What Impactful Engineering Leadership Looks Like](https://www.instapaper.com/read/675594435)
 * [Marting Fowler](https://martinfowler.com)
+ 
+# Videos
 
-## books
-
-* [Leading Snowflakes - The Engineer Manager book](http://leadingsnowflakes.com/)
-* The manager's path. A Guide for Tech Leaders Navigating Growth and Change - Camille Fournier
-* Talking with Tech Leads - Patrick Kua
-* Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations - Nicole Forsgren
+ * [Dare to disagree - argaret Heffernan](https://www.ted.com/talks/margaret_heffernan_dare_to_disagree)
+ * [Start with the why - Simon Sinek](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action)
+ * [On being wrong - Kathryn Schulz](https://www.ted.com/talks/kathryn_schulz_on_being_wrong)
+ * [The elements of scaling- Camille Fournier](https://www.youtube.com/watch?v=E9gN1pm0kcQ)
+ * [John Maxwell The 5 Levels of Leadership](https://www.youtube.com/watch?v=aPwXeg8ThWI)
+ * [Rebooting Culture – Camille Fournier](https://www.youtube.com/watch?v=mOKzDkl3U2Y)
+ * [Leadership Guide for the Reluctant Leader - David Neal](https://www.youtube.com/watch?v=0h5X5UKWao8)
 
 ----
 
