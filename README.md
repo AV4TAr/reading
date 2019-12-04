@@ -1,6 +1,7 @@
 Articles, books, blogposts, videos, etc I collected that will help you to became a better Leader / Manager / Coach
 
 # books
+* The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers - Ben Horowitz
 * Managing Humans: Biting and Humorous Tales of a Software Engineering Manager - Michael Lopp
 * What you do is who you are: How to create your business culture - Ben Horowitz
 * Resilient Management - Lara Hogan
