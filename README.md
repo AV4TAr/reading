@@ -6,6 +6,7 @@ Articles, books, blogposts, videos, etc I collected that will help you to became
 * What you do is who you are: How to create your business culture - Ben Horowitz
 * Resilient Management - Lara Hogan
 * Influence: The Psychology of Persuasion, Revised Edition - Dr. Robert Cialdini
+* Inspired: How to create tech products customers love - Marty Cagan
 * Being Geek: The Software Developer's Career Handbook - Michael Lopp
 * Marissa Mayer and the Fight to Save Yahoo!
 * Losing the Signal: The Untold Story Behind the Extraordinary Rise and Spectacular Fall of BlackBerry
