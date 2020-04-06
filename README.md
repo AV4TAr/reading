@@ -12,7 +12,7 @@ Articles, books, blogposts, videos, etc I collected that will help you to became
 * Losing the Signal: The Untold Story Behind the Extraordinary Rise and Spectacular Fall of BlackBerry
 * Start with the why - Simon Sinek - the TED Talk 
 * Leaders eat last - Simon Sinek
-* No mas pálidas - Enrique Baliño 
+* No More Whining (No Más Pálidas): Four Attitudes for Success - Enrique Baliño 
 * The Five Dysfunctions of a Team - Patrick Lencioni 
 * The 5 Levels of Leadership - John Maxwell 
 * You're in charge, Now what? - Thoms J. Neff & James M. Citrin
