@@ -31,6 +31,8 @@ Articles, books, blogposts, videos, etc I collected that will help you to became
 
 ## Reading queue
 * Drive: The Surprising Truth About What Motivates Us
+* Team Topologies: Organizing Business and Technology Teams for Fast Flow
+* 97 Things Every Engineering Manager Should Know: Collective Wisdom from the Experts
 * Helping People Change: Coaching with Compassion for Lifelong Learning and Growth
 * It Doesn't Have to Be Crazy at Work
 * The First 90 Days, Updated and Expanded: Proven Strategies for Getting Up to Speed Faster and Smarter
