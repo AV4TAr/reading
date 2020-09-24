@@ -52,6 +52,7 @@ Articles, books, blogposts, videos, etc I collected that will help you to became
  
 # articles / links
 
+* [One Rubric Changed Box's Engineering Performance — Here's How](https://firstround.com/review/one-rubric-changed-boxs-engineering-performance-heres-how/)
 * [To be a great leader, rethink your default behaviors – IDEO Stories](https://www.instapaper.com/read/566114749)
 * [Management skills for new leaders](https://www.instapaper.com/read/675876077)
 * [Managing Yourself: Bringing Out the Best in Your People](https://www.instapaper.com/read/827573749)
