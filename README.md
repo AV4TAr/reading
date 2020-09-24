@@ -29,6 +29,19 @@ Articles, books, blogposts, videos, etc I collected that will help you to became
 * Talking with Tech Leads - Patrick Kua
 * Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations - Nicole Forsgren
 
+## Reading queue
+* Drive: The Surprising Truth About What Motivates Us
+* Helping People Change: Coaching with Compassion for Lifelong Learning and Growth
+* It Doesn't Have to Be Crazy at Work
+* The First 90 Days, Updated and Expanded: Proven Strategies for Getting Up to Speed Faster and Smarter
+* Winning Teams--Winning Cultures
+* Winning Now, Winning Later: How Companies Can Succeed in the Short Term While Investing for the Long Term
+* Collaborative Intelligence: Thinking with People Who Think Differently
+* High Output Management
+* Authentic Leadership: Rediscovering the Secrets to Creating Lasting Value
+* New Startup Mindset: Ten Mindset Shifts to Build the Company of Your Dreams
+* Great Leaders Live Like Drug Addicts: Drop the Mask, Practice Rigorous Authenticity, and Lead Like Your Life Depends on It
+
 
 # Podcasts
 
