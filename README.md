@@ -1,4 +1,4 @@
-Articles, books, blogposts, videos, etc I collected that will help you to became a better Leader / Manager / Coach
+Articles, books, blogposts, videos, etc I collected about Leadership / Management / Coaching
 
 # books
 * 97 Things Every Engineering Manager Should Know: Collective Wisdom from the Experts - Fournier, Camille
