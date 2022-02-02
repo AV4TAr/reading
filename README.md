@@ -89,6 +89,7 @@ Articles, books, blogposts, videos, etc I collected about Leadership / Managemen
  
 # Videos
 
+ * [How to find the person who can help you get ahead at work](https://www.ted.com/talks/carla_harris_how_to_find_the_person_who_can_help_you_get_ahead_at_work)
  * [Dare to disagree - argaret Heffernan](https://www.ted.com/talks/margaret_heffernan_dare_to_disagree)
  * [Start with the why - Simon Sinek](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action)
  * [On being wrong - Kathryn Schulz](https://www.ted.com/talks/kathryn_schulz_on_being_wrong)
