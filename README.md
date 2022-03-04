@@ -44,6 +44,7 @@ Articles, books, blogposts, videos, etc I collected about Leadership / Managemen
 * Authentic Leadership: Rediscovering the Secrets to Creating Lasting Value
 * New Startup Mindset: Ten Mindset Shifts to Build the Company of Your Dreams
 * Great Leaders Live Like Drug Addicts: Drop the Mask, Practice Rigorous Authenticity, and Lead Like Your Life Depends on It
+* The Effective Executive: The Definitive Guide to Getting the Right Things Done
 * Coaching
   * Effective Modern Coaching - Myles Downey
   * Time to think - Nancy Kline
