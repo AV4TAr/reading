@@ -31,6 +31,7 @@ Articles, books, blogposts, videos, etc I collected about Leadership / Managemen
 * Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations - Nicole Forsgren
 
 ## Reading queue
+* Good Strategy Bad Strategy: The Difference and Why It Matters by Richard Rumelt
 * Drive: The Surprising Truth About What Motivates Us
 * Team Topologies: Organizing Business and Technology Teams for Fast Flow
 * 97 Things Every Engineering Manager Should Know: Collective Wisdom from the Experts
