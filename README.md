@@ -1,7 +1,8 @@
 Articles, books, blogposts, videos, etc I collected about Leadership / Management / Coaching
 
 # books
-* The 15 commitments of conscious Leadership, A new paradigm for sustainable success - Jim Dethmer, Diana Chapman,& Kaley Warner Klemp.
+* Six Thinking Hats: Your success in business depends on how well you think - Edward de Bono.
+* The 15 commitments of conscious Leadership, a new paradigm for sustainable success - Jim Dethmer, Diana Chapman,& Kaley Warner Klemp.
 * 97 Things Every Engineering Manager Should Know: Collective Wisdom from the Experts - Fournier, Camille
 * An Elegant Puzzle: Systems of Engineering Management - Will Larson
 * The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers - Ben Horowitz
