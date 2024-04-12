@@ -1,7 +1,4 @@
-Books
-Will Larson
-The Engineering Executive's Primer: Impactful Technical Leadership
-, books, blogposts, videos, etc I collected about Leadership / Management / Coaching
+Books, blogposts, videos, etc I collected about Leadership / Management / Coaching
 
 # books
 * Six Thinking Hats: Your success in business depends on how well you think - Edward de Bono.
@@ -51,7 +48,7 @@ The Engineering Executive's Primer: Impactful Technical Leadership
 * Great Leaders Live Like Drug Addicts: Drop the Mask, Practice Rigorous Authenticity, and Lead Like Your Life Depends on It
 * The Effective Executive: The Definitive Guide to Getting the Right Things Done
 * Extreme Ownership - Jocko Willink
-* 
+* The Engineering Executive's Primer: Impactful Technical Leadership - Will Larson
 * Coaching
   * Effective Modern Coaching - Myles Downey
   * Time to think - Nancy Kline
