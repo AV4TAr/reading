@@ -1,10 +1,10 @@
 Books, blogposts, videos, etc I collected about Leadership / Management / Coaching
 
 # books
-* Six Thinking Hats: Your success in business depends on how well you think - Edward de Bono.
+* Six Thinking Hats: Your success in business depends on how well you think - Edward de Bono. *
 * The 15 commitments of conscious Leadership, a new paradigm for sustainable success - Jim Dethmer, Diana Chapman,& Kaley Warner Klemp.
-* 97 Things Every Engineering Manager Should Know: Collective Wisdom from the Experts - Fournier, Camille
-* An Elegant Puzzle: Systems of Engineering Management - Will Larson
+* 97 Things Every Engineering Manager Should Know: Collective Wisdom from the Experts - Fournier, Camille. *
+* An Elegant Puzzle: Systems of Engineering Management - Will Larson. *
 * The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers - Ben Horowitz
 * Managing Humans: Biting and Humorous Tales of a Software Engineering Manager - Michael Lopp
 * What you do is who you are: How to create your business culture - Ben Horowitz
@@ -14,15 +14,15 @@ Books, blogposts, videos, etc I collected about Leadership / Management / Coachi
 * Being Geek: The Software Developer's Career Handbook - Michael Lopp
 * Marissa Mayer and the Fight to Save Yahoo!
 * Losing the Signal: The Untold Story Behind the Extraordinary Rise and Spectacular Fall of BlackBerry
-* Start with the why - Simon Sinek - the TED Talk 
-* Leaders eat last - Simon Sinek
+* Start with the why - Simon Sinek - the TED Talk. *
+* Leaders eat last - Simon Sinek. *
 * No More Whining (No Más Pálidas): Four Attitudes for Success - Enrique Baliño 
-* The Five Dysfunctions of a Team - Patrick Lencioni 
+* The Five Dysfunctions of a Team - Patrick Lencioni. *
 * The 5 Levels of Leadership - John Maxwell 
 * You're in charge, Now what? - Thoms J. Neff & James M. Citrin
 * Delivering Happiness: A Path to Profits, Passion, and Purpose - Tony Hsieh 
-* Radical Candor - Kim Scott
-* Mindset: The New Psychology of Success - Carol S. Dweck
+* Radical Candor - Kim Scott. *
+* Mindset: The New Psychology of Success - Carol S. Dweck. *
 * Multipliers: How the Best Leaders Make Everyone Smarter - Liz Wiseman
 * Switch: How to Change Things When Change Is Hard - Chip Heath, Dan Heath
 * Thinking, Fast and Slow - Daniel Kahneman
@@ -32,6 +32,7 @@ Books, blogposts, videos, etc I collected about Leadership / Management / Coachi
 * Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations - Nicole Forsgren
 
 ## Reading queue
+* The Engineering Executive's Primer: Impactful Technical Leadership - Will Larson
 * Good Strategy Bad Strategy: The Difference and Why It Matters by Richard Rumelt
 * Drive: The Surprising Truth About What Motivates Us
 * Team Topologies: Organizing Business and Technology Teams for Fast Flow
@@ -48,10 +49,10 @@ Books, blogposts, videos, etc I collected about Leadership / Management / Coachi
 * Great Leaders Live Like Drug Addicts: Drop the Mask, Practice Rigorous Authenticity, and Lead Like Your Life Depends on It
 * The Effective Executive: The Definitive Guide to Getting the Right Things Done
 * Extreme Ownership - Jocko Willink
-* The Engineering Executive's Primer: Impactful Technical Leadership - Will Larson
 * Coaching
   * Effective Modern Coaching - Myles Downey
   * Time to think - Nancy Kline
+* The Startup CTO Handbook: The essentials skills and best practices for high-performance engineering teams - Zach Goldberg
 
 
 # Podcasts
