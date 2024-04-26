@@ -104,7 +104,3 @@ Books, blogposts, videos, etc I collected about Leadership / Management / Coachi
  * [John Maxwell The 5 Levels of Leadership](https://www.youtube.com/watch?v=aPwXeg8ThWI)
  * [Rebooting Culture – Camille Fournier](https://www.youtube.com/watch?v=mOKzDkl3U2Y)
  * [Leadership Guide for the Reluctant Leader - David Neal](https://www.youtube.com/watch?v=0h5X5UKWao8)
-
-----
-
-[Check my GoodReads list](https://www.goodreads.com/user/show/52035440-diego-sapriza)
