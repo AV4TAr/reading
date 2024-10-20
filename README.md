@@ -34,6 +34,7 @@ Books, blogposts, videos, etc I collected about Leadership / Management / Coachi
 
 ## Reading queue
 
+* Platform Engineering: A Guide for Technical, Product, and People Leaders - Camille Fournier
 * Good Strategy Bad Strategy: The Difference and Why It Matters by Richard Rumelt
 * Drive: The Surprising Truth About What Motivates Us
 * Team Topologies: Organizing Business and Technology Teams for Fast Flow
