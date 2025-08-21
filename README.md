@@ -55,7 +55,7 @@ Books, blogposts, videos, etc I collected about Leadership / Management / Coachi
 * Coaching
   * Effective Modern Coaching - Myles Downey
   * Time to think - Nancy Kline
-* The Startup CTO Handbook: The essentials skills and best practices for high-performance engineering teams - Zach Goldberg
+* The Startup CTO Handbook: The essential skills and best practices for high-performance engineering teams - Zach Goldberg
 
 
 # Podcasts
