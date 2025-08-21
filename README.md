@@ -31,7 +31,8 @@ Books, blogposts, videos, etc I collected about Leadership / Management / Coachi
 * Talking with Tech Leads - Patrick Kua
 * Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations - Nicole Forsgren
 * The Engineering Executive's Primer: Impactful Technical Leadership - Will Larson
-* Product Driven: The Software Engineering Leadership Model for Product Thinking, Ownership, and outcomes - Matt Watson
+* Product Driven: The Software Engineering Leadership Model for Product Thinking, Ownership, and Outcomes - Matt Watson
+* The First 90 Days, Updated and Expanded: Proven Strategies for Getting Up to Speed Faster and Smarter
 
 ## Reading queue
 
@@ -42,7 +43,6 @@ Books, blogposts, videos, etc I collected about Leadership / Management / Coachi
 * 97 Things Every Engineering Manager Should Know: Collective Wisdom from the Experts
 * Helping People Change: Coaching with Compassion for Lifelong Learning and Growth
 * It Doesn't Have to Be Crazy at Work
-* The First 90 Days, Updated and Expanded: Proven Strategies for Getting Up to Speed Faster and Smarter
 * Winning Teams--Winning Cultures
 * Winning Now, Winning Later: How Companies Can Succeed in the Short Term While Investing for the Long Term
 * Collaborative Intelligence: Thinking with People Who Think Differently
