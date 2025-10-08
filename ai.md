@@ -9,5 +9,8 @@ Everything about Leadership and AI
 
 
 # podcasts
+
 # tools
+
 # books
+* [The Scaling Era: An Oral History of AI, 2019–2025 - Dwarkesh Patel with Gavin Leech](https://press.stripe.com/scaling)
