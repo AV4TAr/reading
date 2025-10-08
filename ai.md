@@ -9,6 +9,9 @@ Everything about Leadership and AI
 
 
 # podcasts
+* The AI Native Dev - from Copilot today to AI Native Sofware Tomorrow - [https://ainativedev.io/](https://ainativedev.io/)
+* How I AI - Claire Vo - [https://open.spotify.com/show/4aRP2XSavdtrLG5FZoonOK](https://open.spotify.com/show/4aRP2XSavdtrLG5FZoonOK)
+* Aquired AI - [https://open.spotify.com/show/6xgOxvAluaTgEtnJ13AJN1](https://open.spotify.com/show/6xgOxvAluaTgEtnJ13AJN1)
 
 # tools
 
