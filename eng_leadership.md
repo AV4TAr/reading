@@ -39,9 +39,6 @@ A comprehensive collection of books, articles, videos, and podcasts about Leader
 - **Crafting Engineering Strategy - How Thoughtful Decisions Solve Complex Problems** - Will Larson
 - **Product Driven** - Matt Watson
 - **The First 90 Days** - Michael Watkins
-
-### Reading Queue
-
 - **Platform Engineering** - Camille Fournier
 - **Good Strategy Bad Strategy** - Richard Rumelt
 - **Drive: The Surprising Truth About What Motivates Us** - Daniel Pink
