@@ -36,6 +36,7 @@ A comprehensive collection of books, articles, videos, and podcasts about Leader
 - **Talking with Tech Leads** - Patrick Kua
 - **Accelerate: The Science of Lean Software and DevOps** - Nicole Forsgren
 - **The Engineering Executive's Primer** - Will Larson
+- **Crafting Engineering Strategy - How Thoughtful Decisions Solve Complex Problems** - Will Larson
 - **Product Driven** - Matt Watson
 - **The First 90 Days** - Michael Watkins
 
