@@ -36,9 +36,10 @@ Determine:
 - article → `## Articles & Links` → pick the best subsection: Performance & Management / Leadership & Behavior / Team Building & Culture / Coaching & Development / Engineering & Product / Motivation & Psychology / Resources & References
 - video → `## Videos` → pick subsection: TED Talks / Engineering Leadership / Leadership Development
 - person → not applicable (this file has no people section)
+  → Tell the user: "There's no people section in eng_leadership.md. Would you like to add this person to ai.md under People to Follow instead?" If yes, switch target to ai.md.
 
 `ai.md`:
-- book → `## Books` → `### Read`
+- book → `## Books` → ask the user: "Have you read this yet?" — yes → `### Read`, no → `### Reading Queue`
 - podcast → `## Podcasts`
 - video → `## Videos` → `### AI Strategy & Leadership`
 - person → `## People to Follow`
@@ -111,6 +112,8 @@ If the user requests edits, revise and show the block again before proceeding.
 ### Step 7 — Edit the file
 
 Read the target file first to find the exact insertion point.
+
+Before inserting, scan the file for the resource title. If already present, tell the user and ask whether to proceed.
 
 Insert the entry at the **bottom of the target section** (before the next `##` or `###` heading, or at the end of file if it's the last section). Do not reorder existing entries.
 
