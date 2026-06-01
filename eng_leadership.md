@@ -198,6 +198,10 @@ A comprehensive collection of books, articles, videos, and podcasts about Leader
 
   Willink and Babin, drawing on their SEAL experience, argue that the single principle underlying all leadership effectiveness is that the leader owns everything in their domain — not as a liability framework but as a mental stance that eliminates the energy-wasting search for who's responsible and focuses it entirely on what to do next. Engineering leaders will find the "no bad teams, only bad leaders" principle most useful in cross-functional situations where it's genuinely unclear who is accountable for a failure, because applying extreme ownership reframes that ambiguity from a political problem into a personal opportunity. The non-obvious chapter is on "cover and move" — the idea that different parts of an organization are not competing but mutually dependent, which directly challenges the zero-sum dynamics that typically emerge between platform teams, product teams, and infrastructure during resource constraints.
 
+- **The Boldly Inclusive Leader: Transform Your Workplace (and the World) by Valuing the Differences Within** - Minette Norman
+
+  Argues that inclusion is an active leadership practice, not a passive aspiration — the "boldly" in the title signals that real inclusion requires discomfort, candor, and deliberate behavior change from leaders. For engineering leaders managing diverse technical teams, it offers frameworks for diagnosing where exclusion silently leaks: in how meetings run, who gets airtime, and how feedback is delivered. A non-obvious core practice is Norman's emphasis on "calling in" rather than "calling out" — addressing exclusionary behavior privately and constructively to build accountability without shame. Draws on Norman's career as a senior engineering leader at Autodesk, grounding abstract DEI principles in the concrete reality of technical organizations.
+
 #### Coaching Focus
 
 - **Effective Modern Coaching** - Myles Downey
